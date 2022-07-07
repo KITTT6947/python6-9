@@ -1,0 +1,11 @@
+print("Hello 6/9")
+print("Kitti")
+print("Manainil")
+print("NV")
+print("age",17,"years")
+print("height", 167.3 ,"years")
+print("weight", 57.6 ,"kg")
+print("brithDay", 6 , "september" , "2004")
+print("Chorasdornumrung school")
+print("Hobby"  "sleep")
+# กิตติ 21 6/9
